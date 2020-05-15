@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">THA_APP_174117L</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="register">User Registration</string>
+    
+    <string name="Enteryourname">Enter Your Name here</string>
+    
+    <string name="EnteryourIndexNo">Enter Your Index No here</string> 
+    
+    <string name="EnteryourEmail">Enter Your Email Address</string>
+    
+   	<string name="EnteryourMobileNo">Enter Your Mobile NO</string>    
+   	
+   	<string name="EnteryourGPA">Enter Your Current GPA</string>   
+   	
+   	<string name="Enteryourpassword">Enter Your Password here</string>
+   	
+   	<string name="Reenteryourpassword">Re-enter Your Password here</string>
+   	
+   	<string name="submit">Submit Details</string>
+   	<string name="login">Login User</string>
+   	<string name="profile">User Profile</string>
+   	<string name="password">Password:</string> 
+   	<string name="index">Index No:</string> 
+   	<string name="name">Name:</string>
+	<string name="mobile">Mobile Number:</string>
+	<string name="email">Email Address:</string>
+	<string name="gpa">Current GPA:</string>
+
+</resources>
+
